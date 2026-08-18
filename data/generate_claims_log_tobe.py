@@ -311,6 +311,7 @@ def main():
                     "channel": channel,
                     "claim_type": claim_type,
                     "claim_value": claim_value,
+                    "event_seq": len(rows),  # tiebreaker for same-instant events (e.g. zero queue wait)
                 }
             )
 
