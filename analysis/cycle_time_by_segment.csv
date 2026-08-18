@@ -1,0 +1,13 @@
+claim_type,channel,n_claims,avg_days,median_days
+Auto,Agent,112,12.75,12.11
+Auto,Mobile,439,13.91,13.22
+Auto,Phone,263,13.02,12.26
+Auto,Web,427,13.74,13.08
+Injury,Agent,341,20.7,19.54
+Injury,Mobile,84,22.01,20.04
+Injury,Phone,394,20.6,19.28
+Injury,Web,154,21.95,21.1
+Property,Agent,370,14.26,13.05
+Property,Mobile,170,14.95,13.8
+Property,Phone,423,14.08,13.01
+Property,Web,415,15.12,13.79

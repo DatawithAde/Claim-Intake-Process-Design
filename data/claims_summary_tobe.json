@@ -1,0 +1,13 @@
+{
+  "num_claims": 5000,
+  "num_events": 59095,
+  "avg_events_per_claim": 11.82,
+  "fast_track_pct": 37.1,
+  "manager_review_pct": 9.0,
+  "overflow_routed_pct_of_manager_reviews": 8.9,
+  "denied_pct": 7.5,
+  "date_range": [
+    "2024-01-01T10:38:47.397808",
+    "2026-01-20T15:26:09.398626"
+  ]
+}

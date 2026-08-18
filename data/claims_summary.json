@@ -1,0 +1,17 @@
+{
+  "num_claims": 5000,
+  "num_events": 57781,
+  "avg_events_per_claim": 11.56,
+  "fast_track_pct": 28.2,
+  "manager_review_pct": 9.6,
+  "denied_pct": 9.0,
+  "events_by_claim_type": {
+    "Auto": 0.502,
+    "Property": 0.299,
+    "Injury": 0.198
+  },
+  "date_range": [
+    "2024-01-01T10:38:47.397808",
+    "2026-02-10T10:40:37.071384"
+  ]
+}
